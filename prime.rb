@@ -10,6 +10,8 @@ def prime?(num)
     
     test_range.each do ||
       
+      
+      
     end 
     
   end 
