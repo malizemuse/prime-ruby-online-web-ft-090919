@@ -8,7 +8,9 @@ def prime?(num)
     
     test_range = (2...num).to_a
     
-    
+    test_range.each do ||
+      
+    end 
     
   end 
   
