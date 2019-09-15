@@ -24,4 +24,5 @@ end
 
 puts prime?(0)
 puts prime?(13)
+puts prime?(4)
 
