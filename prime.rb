@@ -8,6 +8,8 @@ def prime?(num)
     
     test_range = (2...num).to_a
     
+    
+    
   end 
   
 end
