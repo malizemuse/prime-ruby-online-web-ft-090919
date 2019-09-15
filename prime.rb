@@ -1,8 +1,7 @@
 def prime?(num)
   
-  i = 0 
   
-  if num == 0 
+  if num = 0 
     false 
   
 end
