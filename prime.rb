@@ -10,9 +10,11 @@ def prime?(num)
     
     test_range.each do |test|
       
-      
+      return false if num % test == 0 
       
     end 
+    
+    return true
     
   end 
   
