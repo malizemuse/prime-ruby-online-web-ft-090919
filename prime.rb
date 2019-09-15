@@ -6,9 +6,7 @@ def prime?(num)
     
   else
     
-    test_range = (2...num).to_a
-    
-    test_range.each do |test|
+    (2...num).to_a.each do |test|
       
       return false if num % test == 0 
       
