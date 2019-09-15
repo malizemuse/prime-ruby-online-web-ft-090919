@@ -6,7 +6,7 @@ def prime?(num)
     
   else
     
-    (2...num).to_a
+    test_range = (2...num).to_a
     
   end 
   
