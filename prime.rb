@@ -1,8 +1,14 @@
 def prime?(num)
   
   
-  if num = 0 
-    false 
+  if num <= 1 
+    false
+    
+  else
+    
+    
+    
+  end 
   
 end
 
